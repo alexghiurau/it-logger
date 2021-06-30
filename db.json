@@ -4,8 +4,8 @@
       "id": 1,
       "message": "Test log message",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-06-30T11:51:09.010Z"
+      "tech": "John Doe",
+      "date": "2021-06-30T16:25:26.888Z"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
     {
       "id": 2,
       "firstName": "Sam",
-      "lastName": "Smith"
+      "lastName": "Mangja"
     },
     {
       "id": 3,
